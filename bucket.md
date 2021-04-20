@@ -13,15 +13,13 @@
 - [ ] development container (docker) 
 - [ ] dotenv files
 
-## Frontend
-- [ ] Svelte + Rollup
+## Languages and frameworks
+- [ ] Web Assembly
+- [ ] Typescript
+- [ ] Svelte (+ Rollup)
 
-## Backend
+## Cloud
 - [ ] Firebase
-
-## Programming languages
-  - [ ] Typescript
-
 
 ## Open Source
 - [ ] Contribution
