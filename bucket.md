@@ -25,6 +25,9 @@ A list of stuff I heard / read about that I'm interested in trying out.
 - [ ] WebRTC
 - [ ] Nuxt.js
 
+## Data and APIs
+- [ ] GraphQL
+
 ## Testing
 - [ ] Test driven development
 - [ ] Jest
