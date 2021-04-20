@@ -8,15 +8,17 @@
 - [ ] Idle detection
 - [ ] File system
 - [ ] Web share (target)
+- [ ] Publishing
 
 ## Clean development environment
 - [ ] development container (docker) 
 - [ ] dotenv files
 
-## Languages and frameworks
+## Languages, frameworks and technologies
 - [ ] Web Assembly
 - [ ] Typescript
 - [ ] Svelte (+ Rollup)
+- [ ] WebRTC
 
 ## Cloud
 - [ ] Firebase
