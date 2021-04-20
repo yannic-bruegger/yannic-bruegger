@@ -1,5 +1,8 @@
 # 🔭 My bucket of things to learn
-## PWA
+
+A list of stuff I heard / read about that I'm interested in trying out.
+
+## **PWA**
 - [ ] App shortcuts
 - [ ] Contact picker
 - [ ] Geolocation
@@ -10,15 +13,23 @@
 - [ ] Web share (target)
 - [ ] Publishing
 
-## Clean development environment
+## **Clean development environment**
 - [ ] development container (docker) 
 - [ ] dotenv files
 
 ## Languages, frameworks and technologies
-- [ ] Web Assembly
-- [ ] Typescript
+- [ ] **WebAssembly**
+- [ ] TypeScript
 - [ ] Svelte (+ Rollup)
+- [ ] Electron
 - [ ] WebRTC
+- [ ] Nuxt.js
+
+## Testing
+- [ ] Test driven development
+- [ ] Jest
+- [ ] Cypress
+- [ ] Enzyme
 
 ## Cloud
 - [ ] Firebase
