@@ -17,4 +17,4 @@
 
 ----
 
-### 📫 Feel free to send me a message to @yanniconline on Signal.
+### 📫 Feel free to send me a message to @yanniconline on Telegram.
